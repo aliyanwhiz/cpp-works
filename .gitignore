@@ -1,5 +1,2 @@
 .vscode/
-*.out
-*.elf
-*.bin
-a.out
+exe*
